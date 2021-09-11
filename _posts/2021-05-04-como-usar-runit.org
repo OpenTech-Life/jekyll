@@ -1,0 +1,55 @@
+---
+title: "Aprenda a usar o Runit Init System"
+author: Redson
+date: 2021-05-04
+tags: [Intermediário]
+image:
+  src: https://bedrocklinux.org/1.0beta2/brn-handing-off-control.png
+  width: 1920
+  height: 1080
+---
+* O que é Runit?
+Runit é um esquema init para sistemas operacionais do tipo Unix que inicializa, supervisiona e termina processos em todo o sistema operacional.
+Runit é uma reimplementação do kit de ferramentas de supervisão de processo
+daemontools que é executado em muitos sistemas operacionais baseados em Linux, bem como nos sistemas operacionais macOS, BSD e Solaris.
+
+* Como funciona?
+
+O Runit, diferente do systemd, não usa ~systemctl enable programa.service~, ele trabalha de uma maneira um pouco mais manual, o comando descrito anteriormente cria um link simbólico, já o Runit, faz isso da maneira tradicional:
+#+begin_src shell
+ln -s /etc/runit/sv/<nome do serviço> /run/runit/service
+#+end_src
+
+*** Controlando o serviço:
+- Para iniciar um serviço use:
+#+begin_src shell
+sv start <nome do serviço>
+#+end_src
+      PS: Quando um serviço é habilitado, ele inicia *automaticamente*.
+
+- Parando um serviço:
+#+begin_src shell
+sv stop <nome do serviço>	
+#+end_src
+
+- Verificando o estado do serviço:
+#+begin_src shell
+sv status <nome do serviço>
+#+end_src
+- Reiniciando serviços:
+#+begin_src shell
+sv restart <nome do serviço>
+#+end_src
+ 
+E por fim, você pode desabilitar serviços no boot:
+#+BEGIN_SRC shell
+touch /etc/runit/sv/<nome do serviço>/down
+#+END_SRC
+
+** Monitorando serviços:
+   *Ver todos os serviços:*
+#+begin_src
+sv status /var/service/*
+#+end_src
+
+
