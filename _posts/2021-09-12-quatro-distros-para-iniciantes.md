@@ -5,7 +5,7 @@ date: 2021-09-12 12:34 -0300
 tags: [Iniciante]
 categories: [lista]
 toc: true
- ---
+---
 Olá, neste artigo, iremos citar 4 distribuições Linux para usuários do Windows que querem migrar de uma forma menos abrupta porém mais adaptativa.
 
 
