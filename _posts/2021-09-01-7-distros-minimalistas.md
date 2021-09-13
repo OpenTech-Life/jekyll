@@ -3,7 +3,7 @@ title: 7 Distros Linux Minimalistas!
 author: Pedro Portales
 date: 2021-09-01 07:48:01 -0300
 tags: [Linux]
-categories: [Lista]
+categories: [lista]
 image:
   src: https://telegra.ph/file/a39b83e001aef32abf494.png
   width: 1921

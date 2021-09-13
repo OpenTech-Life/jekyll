@@ -11,6 +11,12 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+-
+  type: telegram
+  icon: 'fab fa-telegram'
+  url: 'https://t.me/opentechlife'
+  noblank: true            # open link in current tab
+
 
 # Uncomment and complete the url below to enable more contact options
 # -
