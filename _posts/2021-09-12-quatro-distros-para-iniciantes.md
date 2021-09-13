@@ -15,7 +15,7 @@ O Linux Mint se trata de uma distribuição focada em minimalismo, beleza, usabi
 
 ![](https://camo.githubusercontent.com/6ee3cb71e5adcefafa43f6cd6c9af4cea0e711d5203e78f66c99cb2f7b6995c0/68747470733a2f2f6c696e75786d696e742e636f6d2f70696374757265732f73637265656e73686f74732f756d612f63696e6e616d6f6e2e706e67)
 
-## Zorin OS
+# Zorin OS
 
 Dessa vez, vindo da Irlanda, o Zorin OS é uma distro baseada no Ubuntu (LTS) e vindo (oficialmente) com as interfaces gráficas GNOME e Xfce (em sua branch Lite). É um dos sistemas favoritos dos entusiastas do mundo linux, por principalmente ter uma aparência bastante parecida com o Windows 10.
 
@@ -25,7 +25,7 @@ Quando se inicia o sistema pela primeira vez, ele exibe um tour completo pela in
 
 ![](https://camo.githubusercontent.com/68d5d11cbf530e5a8e9da92dac2817348b105567b0d46f660953f936fe03ebb1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f332f33372f5a6f72696e5f4f535f31352e706e67)
 
-## Pop!_OS
+# Pop!_OS
 
 Pop!_OS é feito pela System 76, uma empresa que começou fazendo distros Linux, mas com o avanço e todo o sucesso merecido, há algum tempo começaram também a produzir e vender notebooks com o próprio sistema vindo de fábrica, mas também tendo a possibilidade de trocá-lo, caso queira.
 
@@ -35,7 +35,7 @@ Tendo a sua interface bem parecida com o GNOME, já é de se esperar que seja be
 
 ![](https://camo.githubusercontent.com/e8882a392930cfcadd3428f9052e6e58c32c63c9224d3b1642a197e9a87ef4f5/68747470733a2f2f7777772e65646976616c646f627269746f2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f706f702d5f6f732d32312d30342d626574612d6c616e6361646f2d636f6d2d6f2d6e6f766f2d6465736b746f702d636f736d69632e6a7067)
 
-## Fedora 34
+# Fedora 34
 
 Dessa vez, vamos falar sobre um sistema baseado no RedHat Linux. Fedora Linux tem como interface gráfica o GNOME, mas diferente de outras distros citadas acima, é um GNOME 100% puro, tão puro que para ter alguns repositórios de apps de terceiros, é preciso fazer alguns comandos para eles estarem disponíveis na GNOME Software.
 Tirando isto, o Fedora além de ser um sistema muito estável, é também muito sólido e dificilmente vai te deixar na mão por qualquer razão.
