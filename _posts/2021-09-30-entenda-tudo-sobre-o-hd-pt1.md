@@ -4,7 +4,7 @@ date: 2021-09-30 21:27 -0300
 author: Pedro Portales
 tags: [História]
 image: 
-  src: "https://telegra.ph/file/77e45b917fca964b298af.png"
+  src: https://telegra.ph/file/77e45b917fca964b298af.png
   width: 1010
   height: 418
 ---
