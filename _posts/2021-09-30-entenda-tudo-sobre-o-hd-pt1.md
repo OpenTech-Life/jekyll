@@ -2,7 +2,7 @@
 title: "Entenda Tudo Sobre o HD! - Parte 1"
 date: 2021-09-30 21:27 -0300
 author: Pedro Portales
-tags: [História]
+tags: ["Entenda"]
 image: 
   src: https://telegra.ph/file/77e45b917fca964b298af.png
   width: 1010
