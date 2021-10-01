@@ -1,6 +1,6 @@
 ---
 title: "Entenda Tudo Sobre o HD! - Parte 1"
-date: 2021-09-30 21:23 -0300
+date: 2021-09-30 21:27 -0300
 author: Pedro Portales
 tags: [História]
 image: 
