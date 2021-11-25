@@ -80,20 +80,20 @@ Alternativamente, você poderá matar ele manualmente usando o `htop` ou seu ger
 # Boas práticas e considerações finais
 Algumas recomendações ao utilizar o script devem ser consideradas:
 - Limpar o cache, caso você troque de wallpaper com frequência<br>
-> ```bash
-> # Não é necessário, caso você reinicie o pc
-> rm -rf /tmp/back4
-> ```
+ ```bash
+ # Não é necessário, caso você reinicie o pc
+ rm -rf /tmp/back4
+ ```
 - Criar um arquivo de Desktop para executar o back4
->```desktop
->[Desktop Entry]
->Name=Back4
->Exec=back4 auto ~/Pictures/wallpaper.gif
->Comment=Lança o wallpaper animado
->Terminal=false
->Icon=/caminho/para/o/icone/desejado
->Type=Application
->```
+```desktop
+[Desktop Entry]
+Name=Back4
+Exec=back4 auto ~/Pictures/wallpaper.gif
+Comment=Lança o wallpaper animado
+Terminal=false
+Icon=/caminho/para/o/icone/desejado
+Type=Application
+```
 
 O script irá rodar melhor em WMs, mas foi testado com sucesso nos ambientes **Cinnamon** e **XFCE**. Não foram feitos testes no **KDE plasma**, então não há certeza de que funcione neste ambiente gráfico.
 
