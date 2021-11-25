@@ -7,7 +7,7 @@ toc: true
 ---
 
 Opa! Neste artigo, irei ensinar uma maneira de utilizar wallpapers animados em Linux.
-<img src="https://i.imgur.com/Jza3ORt.png">
+<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation2.gif">
 
 
 
