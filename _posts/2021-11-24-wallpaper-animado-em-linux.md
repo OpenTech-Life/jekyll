@@ -85,7 +85,7 @@ Algumas recomendações ao utilizar o script devem ser consideradas:
  rm -rf /tmp/back4
  ```
 - Criar um arquivo de Desktop para executar o back4
-```toml
+```
 [Desktop Entry]
 Name=Back4
 Exec=back4 auto ~/Pictures/wallpaper.gif
