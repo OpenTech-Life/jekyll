@@ -24,7 +24,7 @@ Instalaremos o back4.sh com os seguintes comandos no terminal:
 git clone https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif.git
 
 # Entrar na pasta do repositório
-cd foo-Wallpaper-Feh-Gif.git
+cd foo-Wallpaper-Feh-Gif
 
 # Dar permissão pro script executar
 chmod +x back4.sh
